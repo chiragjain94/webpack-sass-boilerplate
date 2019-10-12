@@ -1,12 +1,11 @@
 # Simple Webpack boilerplate/example
 
 Example of basic Webpack config for a simple website.
-Guide: [here](https://dev.to/pixelgoo/how-to-configure-webpack-from-scratch-for-a-basic-website-46a5)
 
-Install all packages:
+Install all packages first:
 
 ```
-$ npm install
+$ npm i
 ```
 
 Run webpack
@@ -21,5 +20,5 @@ Watch webpack
 $ npm run watch
 ```
 
-You will see the index page with a beautiful image from Kerala in India.
+You will see the index page with a beautiful image of Kerala in India.
 Happy Coding & Cheers !
