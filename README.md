@@ -1,4 +1,4 @@
-# Simple Webpack boilerplate/example
+# Simple Webpack with SASS boilerplate/example
 
 Example of basic Webpack config for a simple website.
 
