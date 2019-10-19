@@ -21,4 +21,5 @@ $ npm run watch
 ```
 
 You will see the index page with a beautiful image of Kerala in India.
+The image has a boostrap class along with it.
 Happy Coding & Cheers !
